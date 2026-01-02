@@ -1,2 +1,2 @@
 # Student-management-app
-Student management app using node js and espress 
+Student management app using node js and express
